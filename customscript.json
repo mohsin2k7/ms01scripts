@@ -1,0 +1,4 @@
+{
+  "fileUris": ["https://raw.githubusercontent.com/mohsin2k7/ms01scripts/main/install_web.sh1"],
+  "commandToExecute": "./install_web.sh"
+}
